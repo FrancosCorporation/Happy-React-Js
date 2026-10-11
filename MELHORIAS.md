@@ -1,6 +1,12 @@
 # MELHORIAS — Happy-React-Js
 
-> **Gerado por análise de código em 2026-10-05** — branch `main` | repo placeholder com 1 arquivo (README.md, ~10 linhas) | sem código-fonte, sem CI.
+> **Gerado por análise de código em 2026-10-05** — branch `main` | repo placeholder | sem código-fonte, sem CI.
+
+## Estado da execução — 2026-10-11
+
+- `DOC-01` e `DOC-02` concluídos: links conferidos contra os remotes locais; README define o gatilho do placeholder; licença MIT adicionada.
+- `DEVOPS-01` e `SEC-01` permanecem N/A enquanto não houver código-fonte, conforme os critérios deste plano.
+- Nenhum código, suíte de testes ou workflow foi criado; o repositório continua sendo apenas o placeholder intencional.
 
 ## 0. Como usar este documento
 
@@ -8,7 +14,7 @@ Este plano lista melhorias priorizadas ([P0] crítico → [P3] baixo). Cada item
 
 ## 1. Diagnóstico executivo
 
-Repo placeholder intencional que referencia 2 repos ativos — plano proporcional. Só existe `README.md` (~10 linhas): "Repositório reservado para o clone do projeto Happy (NLW Rocketseat) em React. Placeholder — o workspace principal fica em react_js_nlw5 (front) e node_js_backend_nlw5 (API), ambos funcionando e containerizados. Quando a versão dedicada Happy começar, os fontes entram aqui." Licença MIT citada no README sem arquivo LICENSE (`ls` mostra só `README.md` + `.git`). Sem código, sem CI — aceitável hoje; CI, testes e segurança só viram obrigatórios quando o primeiro fonte entrar (§8).
+Repo placeholder intencional que referencia dois repositórios ativos. **No estado inicial da análise**, o README indicava o workspace, mas não tinha um gatilho objetivo de saída do placeholder; também declarava MIT sem um arquivo `LICENSE`. Não há código-fonte ou CI — aceitável hoje; CI, testes e revisão de segurança tornam-se obrigatórios quando o primeiro fonte entrar (§8).
 
 ## 2. Tabela de prioridades
 
